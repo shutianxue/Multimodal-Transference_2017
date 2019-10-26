@@ -1,6 +1,8 @@
 # Multimodal-Transference_2017
 
-This study aims to understand whether multimodal perception (visual and auditory) of motion and location could transfer to each other. Supervisor: Prof. Dorita Chang (Department of psychology, The University of Hong Kong)
+This study aims to understand whether multimodal perception (visual and auditory) of motion and location could transfer to each other. 
+
+Working with Dr. Dorita Chang (Department of psychology, The University of Hong Kong)
 structure.
 ©️ Shutian Xue vivianxuest@outlook.com
 Supervisor: Prof. Dorita Chang (Department of psychology, The University of Hong Kong)
