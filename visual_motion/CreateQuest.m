@@ -1,0 +1,1 @@
+% CreateQuest.mfunction q = CreateQuest(InitGuess)tGuess = log10( InitGuess );tGuessSD = 3;pThreshold = 0.82;beta = 3.5;delta = 0.01;gamma = 0.5;grain = 0.01;%grain =  0.0001;range = log10( 1000 );q = QuestCreate( tGuess, tGuessSD, pThreshold, beta, delta, gamma, grain, range);
